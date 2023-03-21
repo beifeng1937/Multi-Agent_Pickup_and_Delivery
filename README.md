@@ -77,3 +77,5 @@ python3 -m Utils.plot_experiments
 
 When a plot is closed, the next one will appear until the end of the experiments.
 
+## Map Transform
+agent起始位置统一  无obstacle  修改地图纬度  start location对应货架位置 goal location对应送货点 non_task_endpoints对应停车位置
